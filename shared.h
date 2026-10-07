@@ -14,8 +14,8 @@ const uint16_t HALEHOUND_GUNMETAL = 0x18E3; // #1C1C1C - Gunmetal gray
 const uint16_t HALEHOUND_GREEN = 0x780F;    // Purple (was neon green)
 
 // Legacy color mappings (mapped to HALEHOUND palette)
-const uint16_t SHREDDY_TEAL = HALEHOUND_CYAN;       // Remap teal -> cyan
-const uint16_t SHREDDY_PINK = HALEHOUND_MAGENTA;    // Remap pink -> magenta
+const uint16_t SHREDDY_TEAL = HALEHOUND_CYAN;       // Remap teal -> violet
+const uint16_t SHREDDY_PINK = HALEHOUND_MAGENTA;    // Remap pink -> gunmetal
 const uint16_t SHREDDY_BLACK = HALEHOUND_BLACK;
 const uint16_t SHREDDY_BLUE = HALEHOUND_CYAN;
 const uint16_t SHREDDY_PURPLE = HALEHOUND_VIOLET;
