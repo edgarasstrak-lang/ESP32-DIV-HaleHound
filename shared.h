@@ -3,12 +3,12 @@
 
 // ========== HALEHOUND COLOR PALETTE ==========
 // Jesse's Custom: Red/Purple/Pink theme (no yellow/orange)
-const uint16_t HALEHOUND_MAGENTA = 0x041F;  // Electric Blue - Primary (selected items)
-const uint16_t HALEHOUND_HOTPINK = 0xF81F;  // Hot Pink - Accents
-const uint16_t HALEHOUND_BRIGHT = 0xF81F;   // Hot Pink - Highlights
-const uint16_t HALEHOUND_VIOLET = 0x780F;   // Purple - Accent color
-const uint16_t HALEHOUND_DARK = 0x2841;     // #2B080A - Dark backgrounds
-const uint16_t HALEHOUND_CYAN = 0xF81F;     // Hot Pink for text (was cyan/blue)
+const uint16_t HALEHOUND_MAGENTA = 0x780F; // Violet — selected items
+const uint16_t HALEHOUND_HOTPINK = 0x780F; // Violet accents
+const uint16_t HALEHOUND_BRIGHT = 0xA01F; // Bright violet highlights
+const uint16_t HALEHOUND_VIOLET = 0x780F; // Violet
+const uint16_t HALEHOUND_DARK = 0x0000; // Pure black background
+const uint16_t HALEHOUND_CYAN = 0x780F; // Violet text accents
 const uint16_t HALEHOUND_BLACK = 0x0000;    // #000000 - Pure black
 const uint16_t HALEHOUND_GUNMETAL = 0x18E3; // #1C1C1C - Gunmetal gray
 const uint16_t HALEHOUND_GREEN = 0x780F;    // Purple (was neon green)
