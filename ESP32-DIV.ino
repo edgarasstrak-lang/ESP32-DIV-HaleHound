@@ -3033,7 +3033,7 @@ void setup() {
 
   setupTouchscreen();
 
-  loading(100, ORANGE, 0, 0, 2, true);
+  loading(100, BLACK, 0, 0, 2, true);
   
   tft.fillScreen(TFT_BLACK);
 
